@@ -1,0 +1,1200 @@
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+
+2023-07-11 13:45:02,371 - pyscenic.cli.pyscenic - INFO - Loading expression matrix.
+
+2023-07-11 13:45:02,541 - pyscenic.cli.pyscenic - INFO - Inferring regulatory networks.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+preparing dask client
+parsing input
+creating dask graph
+32 partitions
+computing dask graph
+2023-07-11 13:46:11,087 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62110 (pid=12507) exceeded 95% memory budget. Restarting...
+2023-07-11 13:46:11,100 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62377 remote=tcp://127.0.0.1:62110>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:46:11,101 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62325 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,101 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62334 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,100 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62352 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,103 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62371 remote=tcp://127.0.0.1:62110>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:46:11,101 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker2023-07-11 13:46:11,101 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/U/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62368 remote=tcp://127.0.0.1:62110>: ConnectionResetError: [Errno 54] Connection reset by peer
+sers/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62342 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,107 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/U2023-07-11 13:46:11,106 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62381 remote=tcp://127.0.0.1:62110>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:46:11,107 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62357 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,107 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62364 remote=tcp://127.0.0.1:62110>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:46:11,107 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62374 remote=tcp://127.0.0.1:62110>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:46:11,103 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62360 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,107 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62346 remote=tcp://127.0.0.1:62110>: Stream is closed
+sers/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62329 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,110 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62339 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,112 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62344 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,110 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62110
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62333 remote=tcp://127.0.0.1:62110>: Stream is closed
+2023-07-11 13:46:11,362 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:46:32,558 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62142 (pid=12491) exceeded 95% memory budget. Restarting...
+2023-07-11 13:46:32,590 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:46:33,301 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62096 (pid=12487) exceeded 95% memory budget. Restarting...
+2023-07-11 13:46:33,439 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:46:40,028 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62101 (pid=12504) exceeded 95% memory budget. Restarting...
+2023-07-11 13:46:40,318 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:46:44,452 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62093 (pid=12505) exceeded 95% memory budget. Restarting...
+2023-07-11 13:46:44,936 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62081 (pid=12515) exceeded 95% memory budget. Restarting...
+2023-07-11 13:46:45,056 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:46:45,428 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:46:55,337 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62124 (pid=12500) exceeded 95% memory budget. Restarting...
+2023-07-11 13:46:55,878 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:46:59,570 - distributed.nanny - WARNING - Worker process still alive after 3.2 seconds, killing
+2023-07-11 13:46:59,609 - distributed.nanny - ERROR - Error in Nanny killing Worker subprocess
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/asyncio/tasks.py", line 418, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 597, in close
+    await self.kill(timeout=timeout, reason=reason)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 380, in kill
+    await self.process.kill(reason=reason, timeout=0.8 * (deadline - time()))
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 853, in kill
+    await process.join(max(0, deadline - time()))
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/process.py", line 330, in join
+    await wait_for(asyncio.shield(self._exit_future), timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 1924, in wait_for
+    return await asyncio.wait_for(fut, timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/asyncio/tasks.py", line 420, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:47:02,908 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62156 (pid=12516) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:03,100 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:03,601 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62161 (pid=12510) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:03,742 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:04,926 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62127 (pid=12490) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:04,979 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62127
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62764 remote=tcp://127.0.0.1:62127>: Stream is closed
+2023-07-11 13:47:04,987 - distributed.worker - ERROR - failed during get data with tcp://127.0.0.1:62160 -> tcp://127.0.0.1:62127
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 1780, in get_data
+    response = await comm.read(deserializers=serializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed)  local=tcp://127.0.0.1:62160 remote=tcp://127.0.0.1:62435>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:47:04,989 - distributed.worker - ERROR - failed during get data with tcp://127.0.0.1:62060 -> tcp://127.0.0.1:62127
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 1780, in get_data
+    response = await comm.read(deserializers=serializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed)  local=tcp://127.0.0.1:62060 remote=tcp://127.0.0.1:62229>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:47:04,988 - distributed.worker - ERROR - failed during get data with tcp://127.0.0.1:62177 -> tcp://127.0.0.1:62127
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 225, in read
+    frames_nbytes = await stream.read_bytes(fmt_size)
+tornado.iostream.StreamClosedError: Stream is closed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 1780, in get_data
+    response = await comm.read(deserializers=serializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 144, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed)  local=tcp://127.0.0.1:62177 remote=tcp://127.0.0.1:62729>: Stream is closed
+2023-07-11 13:47:05,019 - distributed.worker - ERROR - failed during get data with tcp://127.0.0.1:62153 -> tcp://127.0.0.1:62127
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 1780, in get_data
+    response = await comm.read(deserializers=serializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed)  local=tcp://127.0.0.1:62153 remote=tcp://127.0.0.1:62349>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:47:05,131 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:05,780 - distributed.nanny - WARNING - Worker process still alive after 3.1999960327148442 seconds, killing
+2023-07-11 13:47:05,784 - distributed.nanny - ERROR - Error in Nanny killing Worker subprocess
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/asyncio/tasks.py", line 418, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 597, in close
+    await self.kill(timeout=timeout, reason=reason)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 380, in kill
+    await self.process.kill(reason=reason, timeout=0.8 * (deadline - time()))
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 853, in kill
+    await process.join(max(0, deadline - time()))
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/process.py", line 330, in join
+    await wait_for(asyncio.shield(self._exit_future), timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 1924, in wait_for
+    return await asyncio.wait_for(fut, timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/asyncio/tasks.py", line 420, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+2023-07-11 13:47:06,266 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62074 (pid=12494) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:06,726 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:07,974 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62068 (pid=12489) exceeded 95% memory budget. Restarting...
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:47:08,307 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62060 (pid=12486) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:08,349 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:08,614 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:09,262 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62121 (pid=12513) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:09,643 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:10,089 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62092 (pid=12498) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:10,176 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:47:11,363 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:63074
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1539, in _connect
+    comm = await connect(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/core.py", line 355, in connect
+    comm = await wait_for(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 1924, in wait_for
+    return await asyncio.wait_for(fut, timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/asyncio/tasks.py", line 432, in wait_for
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2886, in get_data_from_worker
+    comm = await rpc.connect(worker)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1620, in connect
+    return await connect_attempt
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1562, in _connect
+    raise CommClosedError(reason)
+distributed.comm.core.CommClosedError: Address removed.
+2023-07-11 13:47:12,497 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62075 (pid=12499) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:12,561 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:12,652 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62170 (pid=12493) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:12,979 - distributed.nanny - WARNING - Worker process still alive after 3.199999389648438 seconds, killing
+2023-07-11 13:47:12,993 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:13,678 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62136 (pid=12517) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:13,992 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:14,657 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62160 (pid=12495) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:14,685 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62129 (pid=12509) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:14,710 - distributed.nanny - WARNING - Worker process still alive after 3.199999389648438 seconds, killing
+2023-07-11 13:47:14,716 - distributed.nanny - ERROR - Error in Nanny killing Worker subprocess
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/asyncio/tasks.py", line 418, in wait_for
+    return fut.result()
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 597, in close
+    await self.kill(timeout=timeout, reason=reason)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 380, in kill
+    await self.process.kill(reason=reason, timeout=0.8 * (deadline - time()))
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/nanny.py", line 853, in kill
+    await process.join(max(0, deadline - time()))
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/process.py", line 330, in join
+    await wait_for(asyncio.shield(self._exit_future), timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 1924, in wait_for
+    return await asyncio.wait_for(fut, timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/asyncio/tasks.py", line 420, in wait_for
+    raise exceptions.TimeoutError() from exc
+asyncio.exceptions.TimeoutError
+2023-07-11 13:47:14,748 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62160
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62756 remote=tcp://127.0.0.1:62160>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:47:14,764 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62160
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62530 remote=tcp://127.0.0.1:62160>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:47:14,770 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:15,057 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62063 (pid=12501) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:15,196 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:15,218 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:16,828 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62108 (pid=12488) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:17,000 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62088 (pid=12497) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:17,000 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:17,287 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62071 (pid=12508) exceeded 95% memory budget. Restarting...
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:47:17,385 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:17,422 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:19,201 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62162 (pid=12506) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:19,241 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:19,604 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62169 (pid=12492) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:19,657 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:20,191 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62153 (pid=12502) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:20,312 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:21,012 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62104 (pid=12514) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:21,037 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62177 (pid=12512) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:21,145 - distributed.nanny - WARNING - Restarting worker
+2023-07-11 13:47:21,148 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:47:23,382 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62128 (pid=12503) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:23,399 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62128
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62668 remote=tcp://127.0.0.1:62128>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:47:23,417 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:23,430 - distributed.worker - ERROR - Worker stream died during communication: tcp://127.0.0.1:62128
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 869, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/iostream.py", line 1138, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+ConnectionResetError: [Errno 54] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2053, in gather_dep
+    response = await get_data_from_worker(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/worker.py", line 2889, in get_data_from_worker
+    response = await send_recv(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/core.py", line 1136, in send_recv
+    response = await comm.read(deserializers=deserializers)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 241, in read
+    convert_stream_closed_error(self, e)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/comm/tcp.py", line 142, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://127.0.0.1:62801 remote=tcp://127.0.0.1:62128>: ConnectionResetError: [Errno 54] Connection reset by peer
+2023-07-11 13:47:24,349 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62159 (pid=12511) exceeded 95% memory budget. Restarting...
+2023-07-11 13:47:24,516 - distributed.nanny - WARNING - Restarting worker
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+2023-07-11 13:47:24,749 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62137 (pid=12496) exceeded 95% memory budget. Restarting...
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:47:29,198 - distributed.nanny.memory - WARNING - Worker tcp://127.0.0.1:62092 (pid=12612) exceeded 95% memory budget. Restarting...
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+2023-07-11 13:47:29,311 - distributed.nanny - WARNING - Restarting worker
+not shutting down client, client was created externally
+finished
+Numba: Attempted to fork from a non-main thread, the TBB library may be in an invalid state in the child process.
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:68: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_to_dna(twobit: int, size: int) -> str:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:85: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def dna_to_twobit(dna: str) -> int:
+/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/loompy/bus_file.py:102: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  def twobit_1hamming(twobit: int, size: int) -> List[int]:
+^C
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/pyscenic/cli/pyscenic.py", line 106, in find_adjacencies_command
+    network = method(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/arboreto/algo.py", line 39, in grnboost2
+    return diy(expression_data=expression_data, regressor_type='GBM', regressor_kwargs=SGBM_KWARGS,
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/arboreto/algo.py", line 134, in diy
+    return client \
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/client.py", line 3458, in compute
+    result = self.gather(futures)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/client.py", line 2368, in gather
+    return self.sync(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 356, in sync
+    return sync(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 423, in sync
+    raise exc.with_traceback(tb)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 396, in f
+    result = yield future
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/tornado/gen.py", line 769, in run
+    value = future.result()
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/client.py", line 2232, in _gather
+    raise exc
+concurrent.futures._base.CancelledError: finalize-7e48bcf1125a07fd36f05add2293aaf1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/leeker/anaconda3/envs/pyscenic/bin/pyscenic", line 8, in <module>
+    sys.exit(main())
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/pyscenic/cli/pyscenic.py", line 713, in main
+    args.func(args)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/pyscenic/cli/pyscenic.py", line 114, in find_adjacencies_command
+    shutdown_callback(False)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/pyscenic/prune.py", line 72, in close_client_and_local_cluster
+    local_cluster.close()
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/deploy/spec.py", line 293, in close
+    aw = super().close(timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/deploy/cluster.py", line 226, in close
+    return self.sync(self._close, callback_timeout=timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 356, in sync
+    return sync(
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 419, in sync
+    wait(10)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/site-packages/distributed/utils.py", line 408, in wait
+    return e.wait(timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "/Users/leeker/anaconda3/envs/pyscenic/lib/python3.10/threading.py", line 324, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
